@@ -1,7 +1,7 @@
 # 4.Execution_of_NetworkCommands
 
-### NAME:RAMPRASATH.R
-### REG NO:212223220086
+### NAME:MUKESH KUMAR J.P
+### REG NO:212222223002
 ### DEPT : IT
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
